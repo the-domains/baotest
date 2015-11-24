@@ -1,0 +1,28 @@
+name: BaoTest
+favicon: null
+layout_spectrum: 0.22560426010750234
+typography_spectrum: 0.23227476584725082
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8316409999970347
+  lightness: 0.84210135624744
+  saturation: 0.44592486089095473
+  rhythmicContrast: 0.496627657674253
+purpose: []
